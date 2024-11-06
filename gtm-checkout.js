@@ -1,6 +1,7 @@
 function $4fa36e821943b400$var$subscribeOnBodlEvents() {
     // log to verify that the function is executing
     console.log("run subscribeOnBodlEvents()");
+    console.log("toto");
     if (// window is falsy
     !window || // window.bodlEvents is not defined
     typeof window.bodlEvents === "undefined" || // window.bodlEvents.banner is not defined

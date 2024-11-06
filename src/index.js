@@ -1,6 +1,7 @@
 function subscribeOnBodlEvents() {
   // log to verify that the function is executing
   console.log('run subscribeOnBodlEvents()');
+  console.log('toto');
 
   if (
     // window is falsy
