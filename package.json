@@ -1,0 +1,13 @@
+{
+  "name": "senso-gtm",
+  "packageManager": "yarn@4.3.1",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "source": "src/index.js",
+  "main": "gtm-checkout.js"
+}
